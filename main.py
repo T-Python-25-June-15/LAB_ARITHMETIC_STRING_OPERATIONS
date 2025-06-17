@@ -5,6 +5,9 @@ subtotal = price * quantity
 tax = subtotal * tax_rate
 total = subtotal + tax
 
-print(f"${subtotal:.2f}")
-print(f"${tax:.2f}")
-print(f"${total:.2f}")
+print(f"Price of item: ${price:.2f}")
+print(f"Quantity: ${quantity:.2f}")
+print("Tax rate: 7.5% \n")
+print(f"Subtotal: ${subtotal:.2f}")
+print(f"tax: ${tax:.2f}")
+print(f"total: ${total:.2f}")
