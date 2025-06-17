@@ -1,3 +1,4 @@
+# Bonus, create a new python file and do the following:
 
 
 #Define a string variable containing a sentence with at least 10 words.
